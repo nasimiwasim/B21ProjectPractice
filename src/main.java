@@ -9,6 +9,9 @@ public class main {
 
         System.out.println("Brought changes");
 
+        System.out.println("say something nice");
+
+        System.out.println("Add more lines of code");
 
     }
 }
