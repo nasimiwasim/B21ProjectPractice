@@ -5,10 +5,10 @@ public class main {
 
         System.out.println("Hello git last day");
 
+        System.out.println("Hello");
+
+        System.out.println("Brought changes");
 
 
     }
-
-
-
 }
